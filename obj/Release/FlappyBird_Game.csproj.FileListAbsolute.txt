@@ -1,0 +1,11 @@
+E:\Code\csharp\FlappyBird_Game\bin\Release\FlappyBird_Game.exe.config
+E:\Code\csharp\FlappyBird_Game\bin\Release\FlappyBird_Game.exe
+E:\Code\csharp\FlappyBird_Game\bin\Release\FlappyBird_Game.pdb
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.csproj.AssemblyReference.cache
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.Form1.resources
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.Properties.Resources.resources
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.csproj.GenerateResource.cache
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.csproj.CoreCompileInputs.cache
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.exe
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.pdb
+E:\Code\csharp\FlappyBird_Game\obj\Release\FlappyBird_Game.exe.config
